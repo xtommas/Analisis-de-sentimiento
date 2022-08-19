@@ -1,5 +1,4 @@
 # Analisis de sentimiento sobre tweets en español
----
 La tarea propuesta en este trabajo consiste en clasificar el texto de tweets en español en sentimientos positivos, neutrales o negativos.
 Para esto, se utilizaron datasets provistos por la Sociedad Española del Procesado del Lenguaje Natural (SEPLN) para el Taller de Análisis de Sentimiento en español (TASS) en distintos años.
 
